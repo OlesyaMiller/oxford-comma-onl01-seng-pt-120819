@@ -12,5 +12,5 @@ def oxford_comma(array)
   #   return array[0..-2].join(", ") + ", and " + array[-1].to_s
   # end 
   
-  array.to_sentense 
+  array.to_sentence 
 end
